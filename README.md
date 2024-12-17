@@ -1,6 +1,8 @@
 
 # Calendar Widget
 
+![alt text](http://url/to/img.png]
+
 ## Overview
 
 The **Calendar Widget** project consists of three main parts:
@@ -47,18 +49,12 @@ The **Calendar Widget** project consists of three main parts:
    ```bash
    npm install
    ```
-
-3. Build the project:
-   ```bash
-   npm run build
-   ```
-
-4. Run the server:
+3. Run the sproject:
    ```bash
    npm start
    ```
 
-5. Visit the API at `http://localhost:3000` (default port).
+4. Visit the API at `http://localhost:4000` (default port).
 
 ---
 
@@ -100,15 +96,11 @@ The **API URL** can be found in the `package.json` file under the `apiConfig` se
 
 Example usage of the API URL in the client app:
 
-```typescript
-const apiUrl = process.env.REACT_APP_API_URL || "https://calender-widget.onrender.com";
-```
-
 ---
 
 ### How to Use the Widget
 
-The **index.html** file in the `demo` folder provides a working example of how to embed the widget into your application. Below are the key steps to integrate the widget:
+The **index.js** file in the `demo` folder contains a bundle of the widget Below are the key steps to integrate the widget:
 
 #### Requirements
 
@@ -138,21 +130,6 @@ The **index.html** file in the `demo` folder provides a working example of how t
 
 ---
 
-## Development Guide
-
-### Client (Widget)
-
-1. Clone the widget repository and navigate to the folder.
-2. Install dependencies with `npm install`.
-3. Start the development server using `npm run dev`.
-
-### Server (API)
-
-1. Clone the API repository and navigate to the folder.
-2. Install dependencies with `npm install`.
-3. Build and start the server using `npm run build && npm start`.
-
----
 
 ## Technologies Used
 
@@ -161,4 +138,3 @@ The **index.html** file in the `demo` folder provides a working example of how t
 - **React.js**: Frontend library for building the calendar widget.
 - **TypeScript**: Strongly typed JavaScript for enhanced development.
 - **SQLite**: Lightweight database for development and production.
-- **Swagger**: API documentation and testing.
