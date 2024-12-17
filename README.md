@@ -1,7 +1,7 @@
 
 # Calendar Widget
 
-![alt text](http://url/to/img.png]
+![alt text](https://github.com/koladeafeez/calender-widget/demo/main/demo/Screenshot 2024-12-17 201128.png?raw=true)
 
 ## Overview
 
