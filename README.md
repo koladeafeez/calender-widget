@@ -1,13 +1,14 @@
 
 # Calendar Widget
 
-![alt text](https://github.com/koladeafeez/calender-widget/demo/main/demo/Screenshot 2024-12-17 201128.png?raw=true)
+<img width="658" alt="darkb" src="https://github.com/user-attachments/assets/d4996352-9b80-4240-a3e3-f693e13f475e" />
+<img width="529" alt="lightbg" src="https://github.com/user-attachments/assets/07050567-9cb4-4611-8461-d60855fdad50" />
 
 ## Overview
 
 The **Calendar Widget** project consists of three main parts:
 
-1. **Calendar Widget (Client)**: A React and TypeScript-based embeddable widget.
+1. **Calendar Widget (Client)**: A React and TypeScript-based embeddable widget. Currently Support **Dark and Light Color** 
 2. **Calendar Widget API**: A Node.js and TypeScript-based API server.
 3. **Demo**: Contains a bundled embeddable JavaScript file to showcase the widget, along with an `index.html` file that serves as a static demo at [Calendar Widget Demo](https://koladeafeez.github.io/calender-widget/).
 
