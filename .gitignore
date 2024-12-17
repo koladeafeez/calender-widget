@@ -1,7 +1,6 @@
 # Node.js project (server)
 /calender-widget-api/node_modules/
 /calender-widget-api/logs/
-/calender-widget-api/dist/
 
 # React project (client)
 /calender-widget/node_modules/
