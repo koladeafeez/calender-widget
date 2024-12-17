@@ -4,8 +4,6 @@
 
 # React project (client)
 /calender-widget/node_modules/
-/calender-widget/build/
-/calender-widget/.cache/
 
 # Logs
 *.log
